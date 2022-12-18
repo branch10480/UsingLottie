@@ -30,6 +30,7 @@
 		48DE5C45294EDC750003BD15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		48DE5C52294EE3EC0003BD15 /* dotLottie.lottie */ = {isa = PBXFileReference; lastKnownFileType = file; path = dotLottie.lottie; sourceTree = "<group>"; };
 		48DE5C54294EE4460003BD15 /* lottie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = lottie.json; sourceTree = "<group>"; };
+		48DE5C56294EE6780003BD15 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +49,7 @@
 		48DE5C2B294EDC740003BD15 = {
 			isa = PBXGroup;
 			children = (
+				48DE5C56294EE6780003BD15 /* README.md */,
 				48DE5C36294EDC740003BD15 /* UsingLottie */,
 				48DE5C35294EDC740003BD15 /* Products */,
 			);
